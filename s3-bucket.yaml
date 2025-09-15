@@ -1,0 +1,9 @@
+# Creating S3 resource using CloudFormation template
+
+AWSTemplateFormatVersion: '2010-09-09'
+Description: 'Creating S3 bucket using cloud formation'
+Resources:
+  S3bucket:
+    Type: 'AWS::S3::Bucket'
+    Properties:
+      BucketName: 's3-bucket-using-cf-v1'
