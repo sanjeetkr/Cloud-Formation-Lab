@@ -31,6 +31,9 @@
         <mxCell id="3cDIzE8Vni4yqQU2_hdb-37" value="Security group" style="fillColor=none;strokeColor=#DD3522;verticalAlign=top;fontStyle=0;fontColor=#DD3522;whiteSpace=wrap;html=1;" vertex="1" parent="3cDIzE8Vni4yqQU2_hdb-7">
           <mxGeometry x="25" y="29.970000000000027" width="80" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="3cDIzE8Vni4yqQU2_hdb-43" value="Bastion host" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3cDIzE8Vni4yqQU2_hdb-7">
+          <mxGeometry x="30" y="78.47000000000003" width="70" height="21.5" as="geometry" />
+        </mxCell>
         <mxCell id="3cDIzE8Vni4yqQU2_hdb-8" value="PublicSubnet2B" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#7AA116;fillColor=#F2F6E8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;" vertex="1" parent="1">
           <mxGeometry x="392" y="480" width="130" height="130" as="geometry" />
         </mxCell>
